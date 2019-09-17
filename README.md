@@ -53,7 +53,7 @@ RUN SERVER:
 * Host to clone (Ex: http://twitter.com)
 > set url http://twitter.com
 
-* "<code><"form action = "TAKE THIS URL">"</code>(View the site source and take the URL)
+
 > set action_url http://twitter.com
 
 * The port Weeman server will listen
@@ -66,5 +66,5 @@ The settings will be saved for the next time you run weeman.py.
 
 GET WEEMAB
 =============
-git clone https://github.com/cnh4ck3r/weeman
+'git clone https://github.com/cnh4ck3r/weeman'
   
