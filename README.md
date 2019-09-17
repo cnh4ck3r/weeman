@@ -66,5 +66,7 @@ The settings will be saved for the next time you run weeman.py.
 
 GET WEEMAB
 =============
-git clone https://github.com/cnh4ck3r/weeman
-  
+First, clone it by entering the following command in the terminal
+``` bash
+git clone https://github.com/cnh4ck3r/weeman.git
+```
