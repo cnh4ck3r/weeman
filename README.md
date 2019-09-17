@@ -1,4 +1,4 @@
-WEEMAN - HTTP SERVER FOR PHISHING
+###WEEMAN - HTTP SERVER FOR PHISHING
 =================================
 
 ![Weeman](https://4.bp.blogspot.com/-ngMJZqKmznE/VyBIIXHmJDI/AAAAAAAAFeU/4UgzhUEk9bsf2wYBWBKAU4QTtDNegnqLACLcB/s640/weeman_curr.png)
@@ -66,5 +66,5 @@ The settings will be saved for the next time you run weeman.py.
 
 GET WEEMAB
 =============
-'git clone https://github.com/cnh4ck3r/weeman'
+git clone https://github.com/cnh4ck3r/weeman
   
